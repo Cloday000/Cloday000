@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇹🇷 👨🏻‍💻 A passionate young software developer from Türkiye 👨🏻‍💻 🇹🇷<br>
+🇹🇷 👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻 🇹🇷<br>
 ⚡ Fun fact I won a game jam with a game called 'Tiny Tails'
 
 ## 🌐 Socials:
