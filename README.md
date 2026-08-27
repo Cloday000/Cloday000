@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 
 <p align="center">
-  <sub><b style="font-size: 130%;">👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻</b></sub><br>
+  <sub><b style="font-size: 200%;">👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻</b></sub><br>
   <sub><b style="font-size: 130%;">⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇</b></sub>
 </p>
 
