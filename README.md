@@ -1,9 +1,9 @@
 <h1 align="center">💫 About Me:</h1>
 
-<p align="center">
+<h3 align="center">
   🇹🇷 👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻 🇹🇷<br>
   ⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇
-</p>
+</h3>
 
 <br>
 
