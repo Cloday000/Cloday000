@@ -10,10 +10,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=cloday000&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloday000&theme=dark" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloday000&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=cloday000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=cloday000&theme=dark" alt="Top Languages" />
 </div>
 
