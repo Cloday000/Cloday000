@@ -14,6 +14,6 @@
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloday000&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=cloday000&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cloday000&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
