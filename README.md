@@ -14,6 +14,8 @@
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloday000&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/most-used-languages?username=cloday000&theme=dark" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
 
