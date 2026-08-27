@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Cloday000&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Cloday000&theme=shadow_green&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloday000&" alt="cloday000" /></p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cloday000&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cloday000&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
