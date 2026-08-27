@@ -1,6 +1,6 @@
 # 💫 About Me:
 🇹🇷 👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻 🇹🇷<br>
------------⚡ Fun fact I won a game jam with a game called 'Tiny Tails'-----------
+---------⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇-----------
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloday000) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/cloday_) 
