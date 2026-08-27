@@ -2,7 +2,7 @@
 
 <h3 align="center">
   👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻<br>
-  ⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇
+  <sub><b style="font-size: 130%;">⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇</b></sub>
 </h3>
 
 <br>
