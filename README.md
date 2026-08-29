@@ -19,9 +19,11 @@
 <h2 align="center">🚀 Featured Projects:</h2>
 
 <p align="center">
-  <a href="https://github.com/cloday000/TINY-TAILS-REPO-LINKI">
+  <a href="https://www.roblox.com/games/71960716611475/Tiny-Tails">
     <img src="https://img.shields.io/badge/🏆_Tiny_Tails-Game_Jam_Winner-gold?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
+  <br>
+  <sub><b>Role: Lead Scripter & Programmer 📜</b> (Scripting & Mechanics)</sub>
   <br><br>
   <a href="https://github.com/cloday000/SnapKey">
     <img src="https://img.shields.io/badge/🛠️_SnapKey-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white" />
