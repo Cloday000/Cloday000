@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 
 <h3 align="center">
-  👨🏻‍💻 A passionate young Game Developer & Software Enthusiast from Türkiye 👨🏻‍💻<br>
+  👨🏻‍💻 A passionate young Game Scripter & Software Enthusiast from Türkiye 👨🏻‍💻<br>
 </h3>
 
 <br>
