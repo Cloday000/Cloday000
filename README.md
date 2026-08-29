@@ -1,17 +1,31 @@
 <h1 align="center">💫 About Me:</h1>
 
 <h3 align="center">
-  👨🏻‍💻 A passionate young Game developer & software enthusiast from Türkiye 👨🏻‍💻<br>
-  <sub><b style="font-size: 130%;">⚡ Fun fact I won a game jam with a game called 'Tiny Tails' 🥇</b></sub>
+  👨🏻‍💻 A passionate young Game Developer & Software Enthusiast from Türkiye 👨🏻‍💻<br>
 </h3>
 
 <br>
 
 <h2 align="center">🌐 Socials:</h2>
+<p align="center"><i>Follow me on socials for daily devlogs & updates! ⚡</i></p>
 
 <p align="center">
-  <a href="https://instagram.com/cloday000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://x.com/cloday_"><img src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/cloday000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects:</h2>
+
+<p align="center">
+  <a href="https://github.com/cloday000/TINY-TAILS-REPO-LINKI">
+    <img src="https://img.shields.io/badge/🏆_Tiny_Tails-Game_Jam_Winner-gold?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://github.com/cloday000/SnapKey">
+    <img src="https://img.shields.io/badge/🛠️_SnapKey-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white" />
+  </a>
 </p>
 
 <br>
