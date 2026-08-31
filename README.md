@@ -12,9 +12,10 @@
 <p align="center">
   <a href="https://x.com/cloday_"><img src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://instagram.com/cloday000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@cloday000"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </p>
 
-<br>
+
 
 <h2 align="center">🚀 Featured Projects:</h2>
 
@@ -25,12 +26,9 @@
   <br>
   <sub><b>Role: Lead Scripter & Programmer 📜</b> (Scripting & Mechanics)</sub>
   <br><br>
-  <a href="https://github.com/cloday000/SnapKey">
-    <img src="https://img.shields.io/badge/🛠️_SnapKey-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white" />
-  </a>
 </p>
 
-<br>
+
 
 <h2 align="center">💻 Tech Stack:</h2>
 
