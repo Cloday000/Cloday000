@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://x.com/cloday_"><img src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://instagram.com/cloday000"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@cloday000"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </p>
 
